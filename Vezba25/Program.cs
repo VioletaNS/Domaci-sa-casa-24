@@ -20,4 +20,5 @@ namespace Vezba25
             FileMenagment.WriteList(Gradovi);
         }
     }
+
 }
